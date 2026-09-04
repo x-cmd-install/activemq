@@ -1,0 +1,71 @@
+about:
+  description:
+  |
+    Apache ActiveMQ
+  license: Apache-2.0
+  homepage: https://activemq.apache.org
+  head: 7a07a9e
+  archived: false
+  latestVersion: activemq-5.19.11
+  collectedAt: 2026-09-04T04:59:51Z
+timeline:
+  created: 2009-05-21
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-02
+popularity:
+  star: 2455
+  watcher: 193
+  fork: 1494
+  release: 20
+  contributor: 187
+  pullRequest: 616
+  issue: 117
+language:
+  Java: 28039341
+  JavaScript: 443366
+  HTML: 162757
+  Shell: 84558
+  CSS: 37519
+  C#: 27536
+  C++: 17404
+  Python: 16801
+  Batchfile: 13237
+  Ruby: 6594
+  Perl: 4128
+  PHP: 3665
+  Go Template: 3551
+  Dockerfile: 1988
+totalBytes: 28862445
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 86
+    openPR: 6
+    closedIssue: 8
+    openIssue: 4
+    commit: 35
+  last90d:
+    since: 2026-06-06
+    release: 10
+    mergedPR: 339
+    openPR: 23
+    closedIssue: 17
+    openIssue: 24
+    commit: 130
+  last180d:
+    since: 2026-03-08
+    release: 20
+    mergedPR: 587
+    openPR: 28
+    closedIssue: 51
+    openIssue: 43
+    commit: 261
+  last360d:
+    since: 2025-09-09
+    release: 20
+    mergedPR: 776
+    openPR: 34
+    closedIssue: 64
+    openIssue: 53
+    commit: 475
