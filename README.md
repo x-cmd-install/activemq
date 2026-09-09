@@ -7,7 +7,7 @@ Apache ActiveMQ
 - **Latest release**: `activemq-5.19.11` (2026-08-29)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 2456 · **Forks**: 1495 · **Open issues**: 118 · **Contributors**: 172
+- **Stars**: 2457 · **Forks**: 1495 · **Open issues**: 120 · **Contributors**: 172
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/activemq> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:28:06Z._
+_Last regenerated: 2026-09-09T18:40:00Z._
