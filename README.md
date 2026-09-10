@@ -22,23 +22,22 @@ x install activemq
 
 - **Latest**: `activemq-5.19.11` (2026-08-29)
 - **Last commit**: 2026-09-08
-- **Published**: 2026-08-29T15:39:07Z
 
 ## Popularity
 
-- **Stars**: 2,457 · **Forks**: 1,496 · **Open issues**: 120 · **Contributors**: 172
+- **Stars**: 2,457 · **Forks**: 1,498 · **Open issues**: 121 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 1796 · **Open PRs**: 39 · **Closed issues**: 68 · **Open issues**: 52 · **Commits**: 12569
+- **Releases**: 20 · **Merged PRs**: 1796 · **Open PRs**: 40 · **Closed issues**: 68 · **Open issues**: 53 · **Commits**: 12569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 84 | 10 | 3 | 3 | 37 |
-| 90d | 2026-06-12 | 10 | 340 | 27 | 21 | 22 | 124 |
-| 360d | 2025-09-15 | 20 | 797 | 38 | 68 | 52 | 484 |
+| 30d | 2026-08-11 | 2 | 84 | 11 | 3 | 4 | 37 |
+| 90d | 2026-06-12 | 10 | 340 | 28 | 21 | 23 | 124 |
+| 360d | 2025-09-15 | 20 | 797 | 39 | 68 | 53 | 484 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `activemq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/activemq.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/activemq.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:55:37Z._
