@@ -7,7 +7,7 @@ about:
   latestVersion: "activemq-5.19.11"
   latestRelease: "activemq-6.3.2"
   latestPrerelease: "activemq-5.19.11"
-  collectedAt: 2026-09-10T20:12:35Z
+  collectedAt: 2026-09-10T23:29:24Z
 timeline:
   created: 2009-05-21
   lastCommit: 2026-09-08
@@ -96,7 +96,7 @@ total:
   commit: 12569
 ---
 path: /home/runner/.x-repo/github.com/apache/activemq
-collectedAt: 2026-09-10T20:12:45Z
+collectedAt: 2026-09-10T23:29:40Z
 loc:
   Java:
     code: 452957
