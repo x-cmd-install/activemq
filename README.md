@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 85 | 10 | 3 | 4 | 37 |
-| last60d | 2026-07-12 | 8 | 256 | 25 | 16 | 16 | 79 |
-| 90d | 2026-06-12 | 10 | 341 | 27 | 21 | 23 | 124 |
-| last180d | 2026-03-14 | 20 | 595 | 31 | 51 | 38 | 247 |
-| 360d | 2025-09-15 | 20 | 798 | 38 | 68 | 53 | 484 |
-| last720d | 2024-09-20 | 20 | 952 | 39 | 68 | 53 | 726 |
+| 30d | 2026-08-12 | 2 | 77 | 10 | 3 | 4 | 37 |
+| last60d | 2026-07-13 | 8 | 254 | 25 | 16 | 16 | 79 |
+| 90d | 2026-06-13 | 10 | 341 | 27 | 21 | 23 | 124 |
+| last180d | 2026-03-15 | 20 | 595 | 31 | 51 | 38 | 247 |
+| 360d | 2025-09-16 | 20 | 797 | 38 | 68 | 53 | 484 |
+| last720d | 2024-09-21 | 20 | 952 | 39 | 68 | 53 | 725 |
 
 ## Distribution status
 
@@ -86,4 +86,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:29:46Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:24:48Z._
