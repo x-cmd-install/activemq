@@ -47,35 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,458 · **Forks**: 1,500 · **Open issues**: 121 · **Contributors**: 172
+- **Stars**: 2,459 · **Forks**: 1,500 · **Open issues**: 121 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 1799 · **Open PRs**: 39 · **Closed issues**: 68 · **Open issues**: 53 · **Commits**: 12570
+- **Releases**: 20 · **Merged PRs**: 1799 · **Open PRs**: 40 · **Closed issues**: 68 · **Open issues**: 53 · **Commits**: 12570
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 79 | 9 | 2 | 4 | 27 |
-| last60d | 2026-07-15 | 8 | 254 | 25 | 16 | 16 | 73 |
-| 90d | 2026-06-15 | 10 | 334 | 27 | 21 | 22 | 121 |
-| last180d | 2026-03-17 | 20 | 585 | 31 | 51 | 38 | 236 |
-| 360d | 2025-09-18 | 20 | 797 | 38 | 68 | 53 | 481 |
-| last720d | 2024-09-23 | 20 | 943 | 39 | 68 | 53 | 726 |
-
-## Distribution status
-
-Reported by **53** distros on [repology.org](https://repology.org/project/activemq). **4** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `5.17.6` | ⚠️ outdated |
-| Debian 13 | `5.17.6` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.17.6` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.17.6` | ⚠️ outdated |
-| Homebrew | `6.3.2` | ✅ latest |
-| Nix unstable | `6.2.4` | ⚠️ outdated |
+| 30d | 2026-08-15 | 2 | 79 | 10 | 2 | 4 | 27 |
+| last60d | 2026-07-16 | 8 | 253 | 26 | 16 | 15 | 73 |
+| 90d | 2026-06-16 | 10 | 333 | 28 | 21 | 22 | 121 |
+| last180d | 2026-03-18 | 20 | 580 | 32 | 49 | 36 | 236 |
+| 360d | 2025-09-19 | 20 | 797 | 39 | 68 | 53 | 481 |
+| last720d | 2024-09-24 | 20 | 943 | 40 | 68 | 53 | 715 |
 
 ## Improve this data
 
@@ -86,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:38Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:56Z._
