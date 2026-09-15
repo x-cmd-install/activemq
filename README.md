@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (3/10) — binaries present in source code
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-5.19.11` (2026-08-29)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 2,459 · **Forks**: 1,500 · **Open issues**: 121 · **Contributors**: 172
+- **Stars**: 2,459 · **Forks**: 1,500 · **Open issues**: 122 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 1799 · **Open PRs**: 40 · **Closed issues**: 68 · **Open issues**: 53 · **Commits**: 12570
+- **Releases**: 20 · **Merged PRs**: 1801 · **Open PRs**: 41 · **Closed issues**: 68 · **Open issues**: 54 · **Commits**: 12571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 79 | 10 | 2 | 4 | 27 |
-| last60d | 2026-07-16 | 8 | 253 | 26 | 16 | 15 | 73 |
-| 90d | 2026-06-16 | 10 | 333 | 28 | 21 | 22 | 121 |
-| last180d | 2026-03-18 | 20 | 580 | 32 | 49 | 36 | 236 |
-| 360d | 2025-09-19 | 20 | 797 | 39 | 68 | 53 | 481 |
-| last720d | 2024-09-24 | 20 | 943 | 40 | 68 | 53 | 715 |
+| 30d | 2026-08-16 | 2 | 81 | 13 | 2 | 5 | 28 |
+| last60d | 2026-07-17 | 8 | 253 | 29 | 16 | 16 | 74 |
+| 90d | 2026-06-17 | 10 | 332 | 30 | 21 | 23 | 122 |
+| last180d | 2026-03-19 | 20 | 577 | 33 | 48 | 37 | 237 |
+| 360d | 2025-09-20 | 20 | 799 | 40 | 68 | 54 | 482 |
+| last720d | 2024-09-25 | 20 | 944 | 41 | 68 | 54 | 713 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:56Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:43:40Z._
