@@ -4,7 +4,7 @@
 
 Apache ActiveMQ
 
-![activemq](https://repo.x-cmd.io/activemq.svg)
+[![x-cmd/install — activemq Code Quality Monitoring Repo Card](https://repo.x-cmd.io/activemq.svg)](https://x-cmd.com/install/activemq)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,459 · **Forks**: 1,501 · **Open issues**: 122 · **Contributors**: 172
+- **Stars**: 2,460 · **Forks**: 1,501 · **Open issues**: 125 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 1814 · **Open PRs**: 39 · **Closed issues**: 68 · **Open issues**: 54 · **Commits**: 12576
+- **Releases**: 20 · **Merged PRs**: 1814 · **Open PRs**: 42 · **Closed issues**: 68 · **Open issues**: 57 · **Commits**: 12576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 85 | 12 | 2 | 5 | 33 |
-| last60d | 2026-07-20 | 8 | 265 | 26 | 15 | 15 | 79 |
-| 90d | 2026-06-20 | 10 | 342 | 29 | 21 | 23 | 127 |
-| last180d | 2026-03-22 | 18 | 582 | 31 | 48 | 36 | 242 |
-| 360d | 2025-09-23 | 20 | 812 | 38 | 68 | 54 | 487 |
-| last720d | 2024-09-28 | 20 | 956 | 39 | 68 | 54 | 706 |
+| 30d | 2026-08-21 | 2 | 73 | 15 | 2 | 8 | 22 |
+| last60d | 2026-07-22 | 8 | 261 | 29 | 15 | 18 | 67 |
+| 90d | 2026-06-22 | 10 | 337 | 32 | 20 | 26 | 116 |
+| last180d | 2026-03-24 | 18 | 580 | 34 | 46 | 38 | 229 |
+| 360d | 2025-09-25 | 20 | 810 | 41 | 68 | 57 | 478 |
+| last720d | 2024-09-30 | 20 | 956 | 42 | 68 | 57 | 706 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:28:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:54Z._
