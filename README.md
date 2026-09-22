@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `activemq-5.19.11` (2026-08-29)
-- **Last commit**: 2026-09-17
+- **Latest**: `activemq-6.2.10` (2026-09-02)
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 2,460 · **Forks**: 1,501 · **Open issues**: 125 · **Contributors**: 172
+- **Stars**: 2,461 · **Forks**: 1,501 · **Open issues**: 125 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 1814 · **Open PRs**: 42 · **Closed issues**: 68 · **Open issues**: 57 · **Commits**: 12576
+- **Releases**: 21 · **Merged PRs**: 1819 · **Open PRs**: 46 · **Closed issues**: 68 · **Open issues**: 57 · **Commits**: 12577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 73 | 15 | 2 | 8 | 22 |
-| last60d | 2026-07-23 | 8 | 259 | 29 | 15 | 16 | 67 |
-| 90d | 2026-06-23 | 10 | 321 | 32 | 18 | 25 | 116 |
-| last180d | 2026-03-25 | 18 | 575 | 34 | 43 | 38 | 229 |
-| 360d | 2025-09-26 | 20 | 809 | 41 | 68 | 57 | 478 |
-| last720d | 2024-10-01 | 20 | 953 | 42 | 68 | 57 | 706 |
+| 30d | 2026-08-23 | 3 | 78 | 18 | 2 | 8 | 23 |
+| last60d | 2026-07-24 | 9 | 254 | 31 | 15 | 16 | 68 |
+| 90d | 2026-06-24 | 11 | 325 | 35 | 18 | 25 | 117 |
+| last180d | 2026-03-26 | 19 | 566 | 38 | 41 | 38 | 230 |
+| 360d | 2025-09-27 | 21 | 814 | 45 | 68 | 57 | 479 |
+| last720d | 2024-10-02 | 21 | 958 | 46 | 68 | 57 | 704 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:42:58Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:41:24Z._
