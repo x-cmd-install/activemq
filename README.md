@@ -26,7 +26,7 @@ Total: **513,576** lines of code across **5043** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-6.2.10` (2026-09-22)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 2,464 · **Forks**: 1,501 · **Open issues**: 128 · **Contributors**: 174
+- **Stars**: 2,464 · **Forks**: 1,503 · **Open issues**: 128 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 1833 · **Open PRs**: 48 · **Closed issues**: 72 · **Open issues**: 56 · **Commits**: 12585
+- **Releases**: 21 · **Merged PRs**: 1841 · **Open PRs**: 48 · **Closed issues**: 72 · **Open issues**: 56 · **Commits**: 12588
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 3 | 69 | 21 | 3 | 10 | 27 |
-| last60d | 2026-07-30 | 6 | 254 | 33 | 16 | 18 | 68 |
-| 90d | 2026-06-30 | 9 | 330 | 38 | 21 | 25 | 113 |
-| last180d | 2026-04-01 | 17 | 566 | 40 | 41 | 38 | 226 |
-| 360d | 2025-10-03 | 21 | 826 | 47 | 72 | 56 | 483 |
-| last720d | 2024-10-08 | 21 | 972 | 48 | 72 | 56 | 711 |
+| 30d | 2026-08-30 | 2 | 77 | 21 | 3 | 10 | 28 |
+| last60d | 2026-07-31 | 6 | 260 | 33 | 15 | 18 | 69 |
+| 90d | 2026-07-01 | 9 | 334 | 38 | 21 | 25 | 114 |
+| last180d | 2026-04-02 | 17 | 572 | 40 | 41 | 36 | 227 |
+| 360d | 2025-10-04 | 21 | 833 | 47 | 72 | 56 | 484 |
+| last720d | 2024-10-09 | 21 | 980 | 48 | 72 | 56 | 714 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:11:26Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:33:48Z._
