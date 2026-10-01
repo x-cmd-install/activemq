@@ -14,11 +14,11 @@ x install activemq
 
 ## Code insight
 
-Total: **513,576** lines of code across **5043** files in the top 5 languages.
+Total: **513,582** lines of code across **5043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 453,966 | 162,448 | 111,282 | 4527 |
+| Java | 453,972 | 162,446 | 111,280 | 4527 |
 | JavaScript | 26,733 | 2,509 | 3,389 | 38 |
 | Xml | 22,491 | 8,579 | 2,655 | 375 |
 | Css | 2,432 | 293 | 264 | 17 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-6.2.10` (2026-09-22)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 1842 · **Open PRs**: 50 · **Closed issues**: 72 · **Open issues**: 57 · **Commits**: 12589
+- **Releases**: 21 · **Merged PRs**: 1848 · **Open PRs**: 45 · **Closed issues**: 72 · **Open issues**: 57 · **Commits**: 12592
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 76 | 23 | 3 | 11 | 29 |
-| last60d | 2026-08-01 | 6 | 261 | 34 | 15 | 18 | 70 |
-| 90d | 2026-07-02 | 9 | 325 | 40 | 21 | 26 | 115 |
-| last180d | 2026-04-03 | 17 | 570 | 42 | 41 | 37 | 228 |
-| 360d | 2025-10-05 | 21 | 834 | 49 | 72 | 57 | 485 |
-| last720d | 2024-10-10 | 21 | 981 | 50 | 72 | 57 | 715 |
+| 30d | 2026-09-01 | 2 | 82 | 20 | 3 | 11 | 31 |
+| last60d | 2026-08-02 | 6 | 267 | 30 | 15 | 17 | 72 |
+| 90d | 2026-07-03 | 9 | 326 | 35 | 21 | 26 | 117 |
+| last180d | 2026-04-04 | 17 | 575 | 37 | 41 | 37 | 230 |
+| 360d | 2025-10-06 | 21 | 839 | 44 | 72 | 57 | 487 |
+| last720d | 2024-10-11 | 21 | 987 | 45 | 72 | 57 | 718 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:23:09Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:37:09Z._
