@@ -14,11 +14,11 @@ x install activemq
 
 ## Code insight
 
-Total: **521,110** lines of code across **5084** files in the top 5 languages.
+Total: **522,000** lines of code across **5090** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 461,378 | 164,081 | 112,460 | 4566 |
+| Java | 462,268 | 164,265 | 112,638 | 4572 |
 | JavaScript | 26,733 | 2,509 | 3,389 | 38 |
 | Xml | 22,613 | 8,650 | 2,670 | 377 |
 | Css | 2,432 | 293 | 264 | 17 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,465 · **Forks**: 1,504 · **Open issues**: 140 · **Contributors**: 174
+- **Stars**: 2,467 · **Forks**: 1,504 · **Open issues**: 140 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 1877 · **Open PRs**: 58 · **Closed issues**: 75 · **Open issues**: 65 · **Commits**: 12612
+- **Releases**: 21 · **Merged PRs**: 1895 · **Open PRs**: 48 · **Closed issues**: 75 · **Open issues**: 65 · **Commits**: 12619
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 51 | 32 | 2 | 16 | 31 |
-| last60d | 2026-08-18 | 3 | 144 | 37 | 4 | 21 | 69 |
-| 90d | 2026-07-19 | 9 | 324 | 47 | 19 | 29 | 112 |
-| last180d | 2026-04-20 | 15 | 552 | 51 | 35 | 42 | 229 |
-| 360d | 2025-10-22 | 21 | 853 | 57 | 75 | 65 | 492 |
-| last720d | 2024-10-27 | 21 | 1011 | 58 | 75 | 65 | 729 |
+| 30d | 2026-09-18 | 1 | 69 | 21 | 1 | 15 | 31 |
+| last60d | 2026-08-19 | 3 | 160 | 27 | 4 | 21 | 67 |
+| 90d | 2026-07-20 | 9 | 342 | 37 | 19 | 29 | 112 |
+| last180d | 2026-04-21 | 15 | 564 | 41 | 35 | 42 | 229 |
+| 360d | 2025-10-23 | 21 | 871 | 47 | 75 | 65 | 499 |
+| last720d | 2024-10-28 | 21 | 1029 | 48 | 75 | 65 | 736 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:10:02Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:17:54Z._
