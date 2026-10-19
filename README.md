@@ -14,13 +14,13 @@ x install activemq
 
 ## Code insight
 
-Total: **522,000** lines of code across **5090** files in the top 5 languages.
+Total: **522,629** lines of code across **5096** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 462,268 | 164,265 | 112,638 | 4572 |
+| Java | 462,732 | 164,366 | 112,737 | 4576 |
 | JavaScript | 26,733 | 2,509 | 3,389 | 38 |
-| Xml | 22,613 | 8,650 | 2,670 | 377 |
+| Xml | 22,778 | 8,737 | 2,691 | 379 |
 | Css | 2,432 | 293 | 264 | 17 |
 | Html | 1,886 | 1,399 | 336 | 86 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-6.2.10` (2026-09-22)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 2,467 · **Forks**: 1,504 · **Open issues**: 140 · **Contributors**: 174
+- **Stars**: 2,466 · **Forks**: 1,504 · **Open issues**: 141 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 1895 · **Open PRs**: 48 · **Closed issues**: 75 · **Open issues**: 65 · **Commits**: 12619
+- **Releases**: 21 · **Merged PRs**: 1896 · **Open PRs**: 48 · **Closed issues**: 76 · **Open issues**: 65 · **Commits**: 12620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 69 | 21 | 1 | 15 | 31 |
-| last60d | 2026-08-19 | 3 | 160 | 27 | 4 | 21 | 67 |
-| 90d | 2026-07-20 | 9 | 342 | 37 | 19 | 29 | 112 |
-| last180d | 2026-04-21 | 15 | 564 | 41 | 35 | 42 | 229 |
-| 360d | 2025-10-23 | 21 | 871 | 47 | 75 | 65 | 499 |
-| last720d | 2024-10-28 | 21 | 1029 | 48 | 75 | 65 | 736 |
+| 30d | 2026-09-19 | 1 | 67 | 22 | 1 | 15 | 32 |
+| last60d | 2026-08-20 | 3 | 150 | 28 | 4 | 22 | 68 |
+| 90d | 2026-07-21 | 9 | 340 | 38 | 19 | 30 | 113 |
+| last180d | 2026-04-22 | 13 | 564 | 42 | 35 | 43 | 230 |
+| 360d | 2025-10-24 | 21 | 872 | 47 | 76 | 65 | 500 |
+| last720d | 2024-10-29 | 21 | 1028 | 48 | 76 | 65 | 737 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:17:54Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:26:01Z._
