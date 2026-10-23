@@ -42,27 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `activemq-6.2.10` (2026-09-22)
-- **Last commit**: 2026-10-21
+- **Latest**: `activemq-5.19.12` (2026-09-22)
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 2,464 · **Forks**: 1,506 · **Open issues**: 145 · **Contributors**: 174
+- **Stars**: 2,463 · **Forks**: 1,505 · **Open issues**: 148 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 1922 · **Open PRs**: 49 · **Closed issues**: 81 · **Open issues**: 64 · **Commits**: 12629
+- **Releases**: 24 · **Merged PRs**: 1927 · **Open PRs**: 50 · **Closed issues**: 83 · **Open issues**: 65 · **Commits**: 12632
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 80 | 22 | 1 | 16 | 40 |
-| last60d | 2026-08-23 | 3 | 172 | 34 | 6 | 24 | 76 |
-| 90d | 2026-07-24 | 9 | 350 | 41 | 20 | 31 | 121 |
-| last180d | 2026-04-25 | 13 | 582 | 44 | 37 | 45 | 238 |
-| 360d | 2025-10-27 | 21 | 898 | 48 | 81 | 64 | 508 |
-| last720d | 2024-11-01 | 21 | 1044 | 49 | 81 | 64 | 732 |
+| 30d | 2026-09-23 | 3 | 83 | 23 | 2 | 18 | 43 |
+| last60d | 2026-08-24 | 6 | 174 | 36 | 8 | 25 | 79 |
+| 90d | 2026-07-25 | 9 | 355 | 42 | 22 | 32 | 124 |
+| last180d | 2026-04-26 | 16 | 585 | 44 | 39 | 46 | 241 |
+| 360d | 2025-10-28 | 24 | 903 | 49 | 83 | 65 | 511 |
+| last720d | 2024-11-02 | 24 | 1047 | 50 | 83 | 65 | 728 |
+
+## Distribution status
+
+Reported by **49** distros on [repology.org](https://repology.org/project/activemq). **4** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `5.17.6` | ⚠️ outdated |
+| Debian 13 | `5.17.6` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `5.17.6` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `5.17.6` | ⚠️ outdated |
+| Homebrew | `6.3.2` | ✅ latest |
+| Nix unstable | `6.2.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +86,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:27:58Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:32:59Z._
