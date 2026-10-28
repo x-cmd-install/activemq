@@ -42,8 +42,9 @@ x install activemq
 
 ## 发布
 
-- **最新版本**: `activemq-5.19.12` (2026-09-22)
-- **最近提交**: 2026-10-26
+- **最新版本**: `activemq-5.19.12` (2026-10-22)
+- **最近提交**: 2026-10-27
+- **Release 含资产**: 9 个
 
 ## 流行度
 
@@ -51,22 +52,36 @@ x install activemq
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 1938 · **开放 PR**: 53 · **已关闭 issue**: 83 · **开放 issue**: 67 · **提交数**: 12638
+- **发布数**: 24 · **已合并 PR**: 1940 · **开放 PR**: 57 · **已关闭 issue**: 83 · **开放 issue**: 67 · **提交数**: 12640
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 87 | 29 | 2 | 20 | 38 |
-| last60d | 2026-08-28 | 6 | 167 | 39 | 8 | 27 | 73 |
-| 90d | 2026-07-29 | 9 | 357 | 45 | 22 | 34 | 116 |
-| last180d | 2026-04-30 | 16 | 588 | 48 | 39 | 47 | 235 |
-| 360d | 2025-11-01 | 24 | 914 | 52 | 83 | 67 | 499 |
-| last720d | 2024-11-06 | 24 | 1058 | 53 | 83 | 67 | 727 |
+| 30d | 2026-09-28 | 3 | 81 | 32 | 2 | 20 | 39 |
+| last60d | 2026-08-29 | 6 | 169 | 42 | 8 | 27 | 74 |
+| 90d | 2026-07-30 | 9 | 357 | 48 | 22 | 34 | 117 |
+| last180d | 2026-05-01 | 16 | 589 | 52 | 39 | 47 | 236 |
+| 360d | 2025-11-02 | 24 | 913 | 56 | 83 | 67 | 500 |
+| last720d | 2024-11-07 | 24 | 1056 | 57 | 83 | 67 | 729 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [activemq-parent-6.4.0-source-release.zip](https://github.com/apache/activemq/releases/download/activemq-6.4.0/activemq-parent-6.4.0-source-release.zip) | 12.7 MiB | `other` |
+| [activemq-parent-6.4.0-source-release.zip.asc](https://github.com/apache/activemq/releases/download/activemq-6.4.0/activemq-parent-6.4.0-source-release.zip.asc) | 870 B | `other` |
+| [activemq-parent-6.4.0-source-release.zip.sha512](https://github.com/apache/activemq/releases/download/activemq-6.4.0/activemq-parent-6.4.0-source-release.zip.sha512) | 171 B | `other` |
+| [apache-activemq-6.4.0-bin.tar.gz](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.tar.gz) | 55.5 MiB | `native/unknown` |
+| [apache-activemq-6.4.0-bin.tar.gz.asc](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.tar.gz.asc) | 870 B | `other` |
+| [apache-activemq-6.4.0-bin.tar.gz.sha512](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.tar.gz.sha512) | 163 B | `other` |
+| [apache-activemq-6.4.0-bin.zip](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip) | 55.8 MiB | `other` |
+| [apache-activemq-6.4.0-bin.zip.asc](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip.asc) | 870 B | `other` |
+| [apache-activemq-6.4.0-bin.zip.sha512](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip.sha512) | 160 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/activemq) 上共有 **49** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**44** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/activemq) 上共有 **49** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -74,7 +89,7 @@ x install activemq
 | Debian 13 | `5.17.6` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `5.17.6` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `5.17.6` | ⚠️ outdated |
-| Homebrew | `6.3.2` | ✅ latest |
+| Homebrew | `6.4.0` | ✅ latest |
 | Nix unstable | `6.2.4` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -86,4 +101,4 @@ activemq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:49:24Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:24:09Z._
