@@ -29,12 +29,20 @@
 - repo: wikidata
   srcname: Q773135
   visiblename: Apache ActiveMQ
-  version: 6.3.2
+  version: 6.4.0
   origversion: null
-  status: outdated
+  status: newest
   summary: message broker software
   licenses:
     - Apache Software License 2.0
+- repo: chocolatey
+  binname: ActiveMQ
+  visiblename: Apache ActiveMQ
+  version: 5.15.6.20180913
+  origversion: null
+  status: outdated
+  summary: Apache ActiveMQ is a messaging and integration server. This package installs ActiveMQ as a windows service.
+  vulnerable: true
 - repo: aur
   srcname: activemq
   binname: activemq
@@ -47,14 +55,6 @@
     - naviisdead@aur
   licenses:
     - Apache 2.0
-  vulnerable: true
-- repo: chocolatey
-  binname: ActiveMQ
-  visiblename: Apache ActiveMQ
-  version: 5.15.6.20180913
-  origversion: null
-  status: outdated
-  summary: Apache ActiveMQ is a messaging and integration server. This package installs ActiveMQ as a windows service.
   vulnerable: true
 - repo: debian_11
   subrepo: bullseye-security/main
@@ -600,22 +600,6 @@
     - universe/java
   vulnerable: true
 - repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.16.1
-  origversion: 5.16.1-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - drazzib@debian.org
-  categories:
-    - universe/java
-  vulnerable: true
-- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: activemq
   binnames:
@@ -627,6 +611,22 @@
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - universe/java
+  vulnerable: true
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.16.1
+  origversion: 5.16.1-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - drazzib@debian.org
   categories:
     - universe/java
