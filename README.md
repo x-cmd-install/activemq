@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-5.19.12` (2026-10-22)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 2,462 · **Forks**: 1,509 · **Open issues**: 151 · **Contributors**: 174
+- **Stars**: 2,462 · **Forks**: 1,509 · **Open issues**: 156 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1947 · **Open PRs**: 62 · **Closed issues**: 83 · **Open issues**: 68 · **Commits**: 12644
+- **Releases**: 24 · **Merged PRs**: 1953 · **Open PRs**: 58 · **Closed issues**: 83 · **Open issues**: 73 · **Commits**: 12646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 78 | 33 | 2 | 19 | 37 |
-| last60d | 2026-09-05 | 4 | 161 | 48 | 6 | 27 | 64 |
-| 90d | 2026-08-06 | 9 | 239 | 50 | 14 | 29 | 109 |
-| last180d | 2026-05-08 | 16 | 583 | 58 | 35 | 46 | 231 |
-| 360d | 2025-11-09 | 24 | 916 | 61 | 83 | 68 | 496 |
-| last720d | 2024-11-14 | 24 | 1060 | 62 | 83 | 68 | 717 |
+| 30d | 2026-10-06 | 3 | 84 | 29 | 2 | 24 | 39 |
+| last60d | 2026-09-06 | 4 | 167 | 44 | 6 | 32 | 66 |
+| 90d | 2026-08-07 | 6 | 245 | 45 | 14 | 34 | 111 |
+| last180d | 2026-05-09 | 16 | 589 | 54 | 35 | 51 | 233 |
+| 360d | 2025-11-10 | 24 | 922 | 57 | 83 | 73 | 498 |
+| last720d | 2024-11-15 | 24 | 1065 | 58 | 83 | 73 | 719 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:00:14Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:26:39Z._
