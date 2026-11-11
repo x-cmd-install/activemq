@@ -14,11 +14,11 @@ x install activemq
 
 ## Code insight
 
-Total: **524,920** lines of code across **5106** files in the top 5 languages.
+Total: **525,056** lines of code across **5107** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 464,930 | 164,739 | 113,111 | 4585 |
+| Java | 465,066 | 164,780 | 113,141 | 4586 |
 | JavaScript | 26,733 | 2,509 | 3,389 | 38 |
 | Xml | 22,869 | 8,763 | 2,704 | 380 |
 | Css | 2,432 | 293 | 264 | 17 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1970 · **Open PRs**: 70 · **Closed issues**: 84 · **Open issues**: 74 · **Commits**: 12653
+- **Releases**: 24 · **Merged PRs**: 1985 · **Open PRs**: 66 · **Closed issues**: 84 · **Open issues**: 74 · **Commits**: 12659
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 98 | 41 | 3 | 24 | 40 |
-| last60d | 2026-09-11 | 4 | 154 | 55 | 5 | 32 | 67 |
-| 90d | 2026-08-12 | 6 | 241 | 57 | 10 | 34 | 110 |
-| last180d | 2026-05-14 | 16 | 589 | 66 | 33 | 51 | 233 |
-| 360d | 2025-11-15 | 24 | 939 | 69 | 84 | 74 | 505 |
-| last720d | 2024-11-20 | 24 | 1081 | 70 | 84 | 74 | 726 |
+| 30d | 2026-10-12 | 3 | 113 | 35 | 3 | 21 | 45 |
+| last60d | 2026-09-12 | 4 | 169 | 51 | 5 | 32 | 72 |
+| 90d | 2026-08-13 | 6 | 256 | 53 | 10 | 34 | 115 |
+| last180d | 2026-05-15 | 16 | 603 | 62 | 33 | 51 | 238 |
+| 360d | 2025-11-16 | 24 | 953 | 65 | 84 | 74 | 510 |
+| last720d | 2024-11-21 | 24 | 1096 | 66 | 84 | 74 | 731 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:02:51Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:55:33Z._
