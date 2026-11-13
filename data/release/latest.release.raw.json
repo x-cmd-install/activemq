@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58214837,
       "digest": "sha256:75d0c6cbf32a9381b875e70e59f4ce855bf80948fa0520f8a7c4ae38c31ea6af",
-      "download_count": 44,
+      "download_count": 54,
       "created_at": "2026-10-22T10:38:27Z",
       "updated_at": "2026-10-22T10:40:14Z",
       "browser_download_url": "https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 163,
       "digest": "sha256:0d36cc146d17edd96b495f66991eea3844f767bbaecde88271f6b1d4ca031385",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-10-22T10:40:15Z",
       "updated_at": "2026-10-22T10:40:15Z",
       "browser_download_url": "https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.tar.gz.sha512"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 58492809,
       "digest": "sha256:53cc553db03379c627b1054bb9cfc2aa7f7725f5665aa4cee831482b17e1b6d1",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-22T10:40:15Z",
       "updated_at": "2026-10-22T10:41:27Z",
       "browser_download_url": "https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip"
