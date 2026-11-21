@@ -14,11 +14,11 @@ x install activemq
 
 ## Code insight
 
-Total: **525,060** lines of code across **5107** files in the top 5 languages.
+Total: **525,081** lines of code across **5107** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 465,070 | 164,779 | 113,141 | 4586 |
+| Java | 465,091 | 164,780 | 113,145 | 4586 |
 | JavaScript | 26,733 | 2,509 | 3,389 | 38 |
 | Xml | 22,869 | 8,763 | 2,704 | 380 |
 | Css | 2,432 | 293 | 264 | 17 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-5.19.12` (2026-10-22)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-21
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 2,459 · **Forks**: 1,516 · **Open issues**: 160 · **Contributors**: 174
+- **Stars**: 2,459 · **Forks**: 1,517 · **Open issues**: 161 · **Contributors**: 174
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 2015 · **Open PRs**: 70 · **Closed issues**: 86 · **Open issues**: 74 · **Commits**: 12668
+- **Releases**: 24 · **Merged PRs**: 2023 · **Open PRs**: 66 · **Closed issues**: 87 · **Open issues**: 74 · **Commits**: 12672
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 3 | 87 | 33 | 3 | 12 | 30 |
-| last60d | 2026-09-21 | 4 | 175 | 54 | 5 | 30 | 78 |
-| 90d | 2026-08-22 | 6 | 264 | 60 | 11 | 34 | 112 |
-| last180d | 2026-05-24 | 16 | 615 | 67 | 35 | 51 | 237 |
-| 360d | 2025-11-25 | 24 | 971 | 69 | 86 | 74 | 511 |
-| last720d | 2024-11-30 | 24 | 1126 | 70 | 86 | 74 | 739 |
+| 30d | 2026-10-22 | 3 | 92 | 28 | 4 | 9 | 34 |
+| last60d | 2026-09-22 | 4 | 178 | 48 | 6 | 27 | 82 |
+| 90d | 2026-08-23 | 6 | 272 | 57 | 12 | 34 | 116 |
+| last180d | 2026-05-25 | 16 | 622 | 63 | 35 | 51 | 241 |
+| 360d | 2025-11-26 | 24 | 978 | 65 | 87 | 74 | 515 |
+| last720d | 2024-12-01 | 24 | 1134 | 66 | 87 | 74 | 743 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **49** distros on [repology.org](https://repology.org/project/activemq). **4** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **48** distros on [repology.org](https://repology.org/project/activemq). **5** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:59:20Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:54:46Z._
