@@ -26,6 +26,16 @@
   status: newest
   licenses:
     - Apache-2.0
+- repo: slackbuilds
+  srcname: system/apache-activemq
+  visiblename: system/apache-activemq
+  version: 6.4.0
+  origversion: null
+  status: newest
+  maintainers:
+    - vitor@bitarus.mooo.com
+  categories:
+    - system
 - repo: wikidata
   srcname: Q773135
   visiblename: Apache ActiveMQ
@@ -35,22 +45,6 @@
   summary: message broker software
   licenses:
     - Apache Software License 2.0
-- repo: ubuntu_18_04
-  subrepo: bionic/universe
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.15.3
-  origversion: 5.15.3-2
-  status: legacy
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - universe/java
-  vulnerable: true
 - repo: aur
   srcname: activemq
   binname: activemq
@@ -169,20 +163,6 @@
     - eamanu@debian.org
   categories:
     - java
-  vulnerable: true
-- repo: deepin_unstable
-  subrepo: main
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.15.8.1
-  origversion: 5.15.8.1-1+security
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
   vulnerable: true
 - repo: deepin_25
   subrepo: community
@@ -318,22 +298,6 @@
     - Apache-2.0
   vulnerable: true
 - repo: pardus_21
-  subrepo: main
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.16.1
-  origversion: 5.16.1-1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - java
-  vulnerable: true
-- repo: pardus_21
   subrepo: updates/main
   srcname: activemq
   binnames:
@@ -342,6 +306,22 @@
   visiblename: activemq
   version: 5.16.1
   origversion: 5.16.1-1+deb11u2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - java
+  vulnerable: true
+- repo: pardus_21
+  subrepo: main
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.16.1
+  origversion: 5.16.1-1
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -482,17 +462,6 @@
   categories:
     - java
   vulnerable: true
-- repo: slackbuilds
-  srcname: system/apache-activemq
-  visiblename: system/apache-activemq
-  version: 5.14.5
-  origversion: null
-  status: outdated
-  maintainers:
-    - vitor@bitarus.mooo.com
-  categories:
-    - system
-  vulnerable: true
 - repo: spack
   srcname: activemq
   visiblename: activemq
@@ -505,23 +474,6 @@
     - Apache-2.0
   vulnerable: true
 - repo: ubuntu_14_04
-  subrepo: trusty/universe
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - libactivemq-java-doc
-    - activemq
-  visiblename: activemq
-  version: 5.6.0
-  origversion: 5.6.0+dfsg-1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - universe/java
-  vulnerable: true
-- repo: ubuntu_14_04
   subrepo: trusty-updates/universe
   srcname: activemq
   binnames:
@@ -531,6 +483,23 @@
   visiblename: activemq
   version: 5.6.0
   origversion: 5.6.0+dfsg-1+deb7u3build0.14.04.1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - universe/java
+  vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - libactivemq-java-doc
+    - activemq
+  visiblename: activemq
+  version: 5.6.0
+  origversion: 5.6.0+dfsg-1
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -571,6 +540,22 @@
   categories:
     - universe/java
   vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.15.3
+  origversion: 5.15.3-2
+  status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - universe/java
+  vulnerable: true
 - repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: activemq
@@ -580,22 +565,6 @@
   visiblename: activemq
   version: 5.15.11
   origversion: 5.15.11-1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - universe/java
-  vulnerable: true
-- repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.16.1
-  origversion: 5.16.1-1
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -615,6 +584,22 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - drazzib@debian.org
+  categories:
+    - universe/java
+  vulnerable: true
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.16.1
+  origversion: 5.16.1-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
     - drazzib@debian.org
   categories:
     - universe/java
