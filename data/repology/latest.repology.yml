@@ -44,7 +44,23 @@
   status: newest
   summary: message broker software
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.17.2
+  origversion: 5.17.2+dfsg-2+deb12u1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - java
+  vulnerable: true
 - repo: aur
   srcname: activemq
   binname: activemq
@@ -412,22 +428,6 @@
   categories:
     - java
   vulnerable: true
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.17.2
-  origversion: 5.17.2+dfsg-2+deb12u1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - java
-  vulnerable: true
 - repo: raspbian_stable
   subrepo: main
   srcname: activemq
@@ -525,22 +525,6 @@
     - universe/java
   vulnerable: true
 - repo: ubuntu_18_04
-  subrepo: bionic-updates/universe
-  srcname: activemq
-  binnames:
-    - libactivemq-java
-    - activemq
-  visiblename: activemq
-  version: 5.15.8
-  origversion: 5.15.8-2~18.04
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - drazzib@debian.org
-  categories:
-    - universe/java
-  vulnerable: true
-- repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: activemq
   binnames:
@@ -550,6 +534,22 @@
   version: 5.15.3
   origversion: 5.15.3-2
   status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - drazzib@debian.org
+  categories:
+    - universe/java
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: activemq
+  binnames:
+    - libactivemq-java
+    - activemq
+  visiblename: activemq
+  version: 5.15.8
+  origversion: 5.15.8-2~18.04
+  status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
     - drazzib@debian.org
