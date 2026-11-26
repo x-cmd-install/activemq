@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,460 · **Forks**: 1,516 · **Open issues**: 162 · **Contributors**: 175
+- **Stars**: 2,461 · **Forks**: 1,515 · **Open issues**: 163 · **Contributors**: 175
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 2032 · **Open PRs**: 70 · **Closed issues**: 87 · **Open issues**: 75 · **Commits**: 12677
+- **Releases**: 24 · **Merged PRs**: 2032 · **Open PRs**: 70 · **Closed issues**: 88 · **Open issues**: 75 · **Commits**: 12677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 87 | 34 | 3 | 9 | 37 |
-| last60d | 2026-09-26 | 3 | 180 | 54 | 6 | 28 | 80 |
-| 90d | 2026-08-27 | 6 | 264 | 63 | 12 | 35 | 113 |
-| last180d | 2026-05-29 | 14 | 619 | 68 | 34 | 52 | 243 |
-| 360d | 2025-11-30 | 24 | 987 | 70 | 87 | 75 | 518 |
-| last720d | 2024-12-05 | 24 | 1141 | 70 | 87 | 75 | 747 |
+| 30d | 2026-10-27 | 0 | 83 | 34 | 3 | 10 | 37 |
+| last60d | 2026-09-27 | 3 | 180 | 54 | 6 | 29 | 80 |
+| 90d | 2026-08-28 | 6 | 261 | 63 | 12 | 36 | 113 |
+| last180d | 2026-05-30 | 14 | 619 | 68 | 34 | 53 | 243 |
+| 360d | 2025-12-01 | 24 | 986 | 70 | 88 | 75 | 518 |
+| last720d | 2024-12-06 | 24 | 1141 | 70 | 88 | 75 | 746 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:14:17Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:01:03Z._
