@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `activemq-5.19.12` (2026-10-22)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-26
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 2032 · **Open PRs**: 70 · **Closed issues**: 88 · **Open issues**: 75 · **Commits**: 12677
+- **Releases**: 24 · **Merged PRs**: 2034 · **Open PRs**: 70 · **Closed issues**: 88 · **Open issues**: 75 · **Commits**: 12678
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 83 | 34 | 3 | 10 | 37 |
-| last60d | 2026-09-27 | 3 | 180 | 54 | 6 | 29 | 80 |
-| 90d | 2026-08-28 | 6 | 261 | 63 | 12 | 36 | 113 |
-| last180d | 2026-05-30 | 14 | 619 | 68 | 34 | 53 | 243 |
-| 360d | 2025-12-01 | 24 | 986 | 70 | 88 | 75 | 518 |
-| last720d | 2024-12-06 | 24 | 1141 | 70 | 88 | 75 | 746 |
+| 30d | 2026-10-28 | 0 | 85 | 33 | 3 | 9 | 38 |
+| last60d | 2026-09-28 | 3 | 174 | 54 | 6 | 29 | 81 |
+| 90d | 2026-08-29 | 6 | 263 | 63 | 12 | 36 | 114 |
+| last180d | 2026-05-31 | 14 | 618 | 68 | 34 | 53 | 244 |
+| 360d | 2025-12-02 | 24 | 987 | 70 | 88 | 75 | 519 |
+| last720d | 2024-12-07 | 24 | 1143 | 70 | 88 | 75 | 747 |
 
 ## Release assets
 
@@ -79,19 +79,6 @@ Lowest-scoring checks:
 | [apache-activemq-6.4.0-bin.zip.asc](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip.asc) | 870 B | `other` |
 | [apache-activemq-6.4.0-bin.zip.sha512](https://github.com/apache/activemq/releases/download/activemq-6.4.0/apache-activemq-6.4.0-bin.zip.sha512) | 160 B | `other` |
 
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/activemq). **5** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `5.17.6` | ⚠️ outdated |
-| Debian 13 | `5.17.6` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.17.6` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `5.17.6` | ⚠️ outdated |
-| Homebrew | `6.4.0` | ✅ latest |
-| Nix unstable | `6.2.4` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `activemq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +88,4 @@ Install metadata for activemq lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:01:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:04:58Z._
